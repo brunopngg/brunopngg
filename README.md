@@ -1,5 +1,12 @@
-## Opa
-Sou o Carlos Bruno, atualmente estou no 8° semestre de Engenharia da Computação.
+## 👨‍💻Carlos Bruno
+Me chamo Carlos Bruno, tenho 23 anos e atualmente, estou cursando Engenharia da Computação na Unifesspa.
+
+ <a href="https://instagram.com/brunno.ia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/bruno2k01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+---
+
+### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
 
@@ -15,7 +22,18 @@ Sou o Carlos Bruno, atualmente estou no 8° semestre de Engenharia da Computaç�
  
 <div> 
   
-  <a href="https://instagram.com/brunno.ia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	  <a href="https://www.linkedin.com/in/bruno2k01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
+
+  ### 📊 Estatísticas
+
+<p>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopngg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 </div>
