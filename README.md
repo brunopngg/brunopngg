@@ -17,8 +17,5 @@ Sou o Carlos Bruno, atualmente estou no 8° semestre de Engenharia da Computaç�
   
   <a href="https://instagram.com/brunno.ia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	  <a href="https://www.linkedin.com/in/bruno2k01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    ![Snake animation](https://github.com/brunopngg/brunopngg/blob/output/github-snake.svg)
 
-    
-  
 </div>
