@@ -19,21 +19,15 @@ Me chamo Carlos Bruno, tenho 23 anos e, atualmente, estou cursando Engenharia da
     <img align="center" alt="Rafa-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
-  ##
- 
-<div> 
-  
 ---
 
   ### 📊 Estatísticas
 
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopngg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-
-</p>
-
+<div>
+<a href="https://github.com/brunopngg">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopngg&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brunopngg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![Snake animation](https://github.com/brunopngg/brunopngg/blob/output/github-contribution-grid-snake.svg)
+
