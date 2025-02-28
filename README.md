@@ -29,5 +29,4 @@ Me chamo Carlos Bruno, tenho 23 anos e, atualmente, estou cursando Engenharia da
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brunopngg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/brunopngg/brunopngg/blob/output/github-contribution-grid-snake.svg)
 
