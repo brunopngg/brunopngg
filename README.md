@@ -33,7 +33,6 @@ Me chamo Carlos Bruno, tenho 23 anos e, atualmente, estou cursando Engenharia da
 
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopngg&layout=compact&theme=github_dark)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunopngg&show_icons=true&theme=github_dark)
 
 
 
