@@ -18,10 +18,6 @@ Me chamo Carlos Bruno, tenho 23 anos e, atualmente, estou cursando Engenharia da
   <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
-  <img align="center" alt="photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
-  <img align="center" alt="photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-  <img align="center" alt="photoshop" height="30" width="30" src="https://its.ucr.edu/sites/default/files/styles/form_preview/public/powerbi%20logo%201.png?itok=yYXO-S-V">
-  <img align="center" alt="photoshop" height="30" width="80" src="https://thierryvanoffe.com/wp-content/uploads/2023/11/logo-looker-studio.jpg">
     <img align="center" alt="java" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
 
   
