@@ -1,39 +1,105 @@
-## 👨‍💻Carlos Bruno
-Me chamo Carlos Bruno, tenho 23 anos e, atualmente, estou cursando Engenharia da Computação na Unifesspa.
+<div align="center">
 
- <a href="https://instagram.com/brunno.ia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/bruno2k01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+# Olá, eu sou Carlos Bruno! 👋
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Estudante+de+Eng.+da+Computação;Desenvolvedor+em+formação;Apaixonado+por+tecnologia)](https://git.io/typing-svg)
 
-### 🤖 Linguagens e Tecnologias
-
-<div style="display: inline_block">
-
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
-    <img align="center" alt="java" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
-
-  
 </div>
-  
+
 ---
 
-  ### 📊 Estatísticas
+## 👨‍💻 Sobre mim
 
+- 🎓 Cursando **Engenharia da Computação** na **Unifesspa**
+- 🔭 Atualmente aprendendo mais sobre **desenvolvimento de software e IA**
+- 🌱 Explorando **Python, Swift e desenvolvimento web**
+- 💡 Interessado em **inteligência artificial e design**
+- 📍 Brasil
+- 📫 Me encontre nas redes sociais abaixo!
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopngg&layout=compact&theme=github_dark)
+---
 
+## 🌐 Conecte-se comigo
 
+<div align="center">
 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunno.ia)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno2k01)
+[![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunopngg)
 
+</div>
 
+---
 
+## 🛠️ Linguagens e Tecnologias
 
+<div align="center">
 
+### 💻 Linguagens
+<img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/>
+<img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
+<img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/>
+<img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/>
+<img alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C"/>
+<img alt="Swift" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" title="Swift"/>
+<img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"/>
+
+### 🎨 Design & Ferramentas
+<img alt="Photoshop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" title="Photoshop"/>
+<img alt="Blender" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" title="Blender"/>
+<img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"/>
+<img alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code"/>
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunopngg&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopngg&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🔥 Streak de Contribuições
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=brunopngg&theme=github-dark-blue&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Troféus do GitHub
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=brunopngg&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Atividade Recente
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brunopngg&theme=github-compact&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=brunopngg&color=blue&style=for-the-badge&label=VISITANTES)
+
+⭐ **Obrigado pela visita!** ⭐
+
+</div>
