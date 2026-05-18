@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Cursando **Engenharia da Computação** na **Unifesspa**
+- 🎓 **Engenheiro da Computação**
 - 🔭 Atualmente aprendendo mais sobre **desenvolvimento de software e IA**
 - 🌱 Explorando **Python, Swift e desenvolvimento web**
 - 💡 Interessado em **inteligência artificial, design e tecnologia**
@@ -56,20 +56,6 @@
 
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunopngg&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopngg&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 🔥 Streak de Contribuições
 
 <div align="center">
@@ -88,22 +74,3 @@
 
 </div>
 
----
-
-## 📈 Atividade Recente
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brunopngg&theme=github-compact&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=brunopngg&color=blue&style=for-the-badge&label=VISITANTES)
-
-⭐ **Obrigado pela visita!** ⭐
-
-</div>
