@@ -2,7 +2,7 @@
 
 # Olá, eu sou Carlos Bruno! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Estudante+de+Eng.+da+Computação;Desenvolvedor+em+formação;Apaixonado+por+tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Engenheiro+da+Computação;Desenvolvedor+FullStack+em+formação)](https://git.io/typing-svg)
 
 </div>
 
