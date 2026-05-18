@@ -12,7 +12,7 @@
 
 - 🎓 **Engenheiro da Computação**
 - 🔭 Atualmente aprendendo mais sobre **desenvolvimento de software e IA**
-- 🌱 Explorando **Python, Swift e desenvolvimento web**
+- 🌱 Explorando **React, Next e desenvolvimento web**
 - 💡 Interessado em **inteligência artificial, design e tecnologia**
 - 📍 Brasil
 - 📫 Me encontre nas redes sociais abaixo!
